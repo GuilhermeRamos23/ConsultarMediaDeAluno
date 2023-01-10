@@ -1,0 +1,65 @@
+body{
+    background:  rgb(61, 206, 231);
+}
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.es{
+    display: block ;
+    width: 150px;
+    text-align: center;
+    padding: 05pt;
+    margin-top: 10px;
+    margin-left: 05px;
+    border-radius: 5px;
+    box-shadow: rgb(26, 11, 11)  10px 05px 10px;
+}
+#btn{
+    display: block;
+    position: relative;
+    left: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    font-weight: 600;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: solid 2px rgba(0, 0, 0, 0.692) ;
+    box-shadow: 10px 05px 30px;
+    cursor: pointer;
+ }
+ #caixa{
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    background: rgba(77, 93, 126, 0.712);
+    border-radius: 10px;
+ }
+#res{
+    display: block;
+    position: relative;
+    left: 225px;
+    bottom: 200px;
+    height: 100px;
+    width: 150px;
+    background: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: 1px solid black;
+}
+p{
+    margin-bottom: 50px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size:  15pt;
+}
+#copy{
+    width: 150px;
+    color: rgb(0, 0, 0);
+    box-shadow:  10px 10px 30px;
+    margin: auto;
+    display: block;
+    position: relative;
+    bottom: 25px;
+    
+}
